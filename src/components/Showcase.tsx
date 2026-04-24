@@ -37,7 +37,7 @@ const sections = [
     desc: "The pinnacle of high-performance utility. 800 CV of lightning-fast acceleration and uncompromising power.",
     tags: ["High Velocity", "800 CV", "Turbocharged"],
     color: "#050505",
-    accent: "#E31B23"
+    accent: "#FFFFFF"
   },
   {
     label: "02 — M Performance",
@@ -45,7 +45,7 @@ const sections = [
     desc: "Precision engineering meets aggressive design. A straight-six masterpiece that delivers raw power and surgical handling.",
     tags: ["M-Powered", "503 HP", "Isle of Man Green"],
     color: "#050505",
-    accent: "#E31B23"
+    accent: "#FFFFFF"
   },
   {
     label: "03 — Track Focused",
@@ -53,7 +53,7 @@ const sections = [
     desc: "A pure driver's car. Lightweight carbon construction and a mid-mounted V8 designed for the ultimate adrenaline rush.",
     tags: ["Carbon Tube", "V8 Bi-Turbo", "Monocell II"],
     color: "#050505",
-    accent: "#E31B23"
+    accent: "#FFFFFF"
   }
 ];
 

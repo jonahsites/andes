@@ -6,8 +6,8 @@
   --font-serif: "Space Grotesk", sans-serif;
   --color-luxury-black: #050505;
   --color-luxury-grey: #121214;
-  --color-accent: #E31B23;
-  --color-accent-glow: rgba(227, 27, 35, 0.4);
+  --color-accent: #FFFFFF;
+  --color-accent-glow: rgba(255, 255, 255, 0.2);
 }
 
 @layer base {
